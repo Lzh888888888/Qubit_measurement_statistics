@@ -1,6 +1,3 @@
-以下是以繁體中文撰寫的專業 `README.md` 文件，適合您的量子計算實驗專案：
-
-```markdown
 # 量子測量統計實驗（使用 Qiskit）
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
