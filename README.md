@@ -86,20 +86,3 @@ MIT 授權 - 可自由用於教育與研究用途
 
 如有問題或建議，請在本專案提交 issue。
 ```
-
----
-
-### 補充說明：
-1. 若需 `requirements.txt` 文件，內容建議如下：
-   ```
-   qiskit>=1.0
-   qiskit-aer>=0.12
-   matplotlib>=3.5
-   ```
-
-2. 進階建議：
-   - 上傳至 GitHub 時可添加標籤 `quantum-computing` 和 `qiskit`
-   - 可加入 `.gitignore` 文件過濾 Python 暫存檔
-   - 進階版本可附加 Jupyter Notebook 範例
-
-此 README 提供完整的繁體中文說明，包含理論基礎、技術細節與執行方法，非常適合教學分享或協作開發。
